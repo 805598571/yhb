@@ -1,0 +1,657 @@
+YouTube,#genre#
+TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+民視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+三立財經,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+東森新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=R2iMq5LKXco
+EBC東森財經,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+華視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=B7Zp3d6xXWw
+鏡新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+凤凰卫视,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dmDg7NfUoSw
+东森财经股市,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LbS-xQ67fos
+KOMPASTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4rmf-lk3ito
+饥饿游戏,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=3xe-R00ijC4
+东京新宿,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+鳳凰衛視,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
+鳳凰資訊,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www..youtube.com/watch?v=a3WZVssKlAI&pp=ygUM6bOz5Yew6KGb6KaW
+中天新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+鏡新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+中天新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+中天新聞2,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+三立live,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立inews,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NEWS LIVE,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+EBC東森財經,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+三立財經,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+NHK WORLD,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
+NHK WORLD,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+Sky News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9Auq9mYxFEE
+FRANCE 24,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=h3MuIUNCCzI
+ABC News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=w_Ma8oQLmSM
+Euronews English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pykpO5kQJ98
+DW,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pqabxBKzZ6M
+ANN News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=coYw-eVU0Ks
+KBS KOREA,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HnfpTMtfFk8
+NBC NEW,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0IUbD_4ytuo
+鳳凰資訊,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=sUISafvOieY
+凤凰卫视,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dmDg7NfUoSw
+CCTV中文国际,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9sE12tg3CmA
+东森财经股市,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LbS-xQ67fos
+公視直播,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4Uc00FPs27M
+KOMPASTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4rmf-lk3ito
+东京新宿,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+台灣地震監視,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Owke6Quk7T0
+橙Yuzumi Channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wP_xJKrEvog
+TXO Liang,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=sYtEMRRMbVk
+Uki Violeta 【NIJISANJI EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-EOCnCM6Ga4
+Enna Alouette【NIJISANJI EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-zxbmUR2xzY
+雲玩家 H ch.,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=v4mM7tLtnEE
+前田慶次,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=y5wY0Kyc1F8
+Polka Ch. 尾丸ポルカ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xCPRckfWeWk
+Nye,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HBFzKU4RANM
+玩什麼鬼啦,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=KkH3Vgw5ABM
+Vantacrow Bringer 【NIJISANJI EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DZANdNV5T-o
+心疼,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xA7fzO2h8po
+Crimzon Ruze Ch. HOLOSTARS-EN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uurvYlJmS14
+CC希希,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_ZUCPmYW4cA
+猫汰つな / Nekota Tsuna,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IAS_mp_xfZ0
+AKA王以太,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=rhFHkWrQhxY
+Mori Calliope Ch. hololive-EN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=kfSmviBESQM
+期末專題,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5TA7Tljvgpg
+玖璐Jiulu Ch.,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=u8hg51KpxH4
+瑪琋霓·索蕾 Marcinee Soleil,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=48mrIGP0JrE
+卡妮娜 Kanína Ch.,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2FJ8G1_PZNo
+SQUARE ENIX MUSIC Channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6KsScSZlAkM
+肯倫 KinLun ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Jbq2Pux5s4Q
+PFY玩給你看,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ghBUgNCagrs
+Claude Clawmark 【NIJISANJI EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CeveQIus_pA
+Lucien Lunaris【FIRST STAGE PRODUCTION EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ql1KMTCgFC8
+Miori Celesta,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hJffhObZz0w
+巨神頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_CWNRbupdO8
+SnapsterTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=T9jPn37gYbA
+ivan kamil,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1EYNydDsKWI
+胡桃沢りりか,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=rP_b_PUGeFA
+Vezalius Bandage 【NIJISANJI EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=l3qYRbTKafU
+Koneko Ch. 蒼神こねこ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9NHROK-5-DI
+Lio Ch.獅堂リオ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5_tEtXrpdRs
+Finana Ryugu 【NIJISANJI EN】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=stGI420hHm8
+Ande 安爹 Ch.,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=GhIiGYfau7s
+ベルモンド・バンデラス,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dzL8ifB8qRY
+Mason,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=SdarP_et7hg
+桜鳥ミーナ / Audrey Mina,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=U3TT_fHO-RA
+s1mple,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=mpYIK2Bm1mI
+NairoMK,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0LV6lr1gBQ0
+GipsoCartoon,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BiIG71H2zlo
+Meimi Majokko Ch. 魔女っ子めいみ【kawaii】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ez2wiBOsQFk
+Mion Akuma 【AuroraLiveVR】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wPZjpcmUyTk
+BeamNG Hero TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Z2oWJr53QMU
+Кирито-Майнкрафт,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ucrkArMzzeI
+donk,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_UTc6MMTTZA
+SypherPK,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=FoRHu0Akq_k
+LilAggy,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=AOSUIAGH4hk
+NG Slot,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_L64ZgcIQzE
+Rahdian,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=penFUa_GT2c
+Shiki Miyoshino / 美吉野しき【Requiem】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uzzGh5t_hW4
+聯亞JAMES×遊戲實況,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hkW35p67Hm4
+知力Lv.1 ほたっぺ🦖,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Qtwd-QRA-S0
+이문주,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=aY8KXheZvHE
+Raifa Ch. ライファ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jgnAXbMj1iA
+Troydan,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fM549NZ5DH8
+Hungrybox,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=--ZE5y35nvo
+Sakla TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4v6mknqFmgM
+Fajar Sukmaludin,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vcWnyK_CdCw
+Kou Mariya Ch.【V4Mirai】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TRLYJeFybeg
+LuluLuvely,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IgEgdGcBLXQ
+AI Sponge Rehydrated,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xvi2dpBqudA
+Da-Rell Gaming,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UNRwtD_I1eo
+BriAtCookiebox,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=31Zzul3ig0Y
+Phil / Youmuus 2,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BkWNylieMLU
+Firebox,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LXTwtpH0Xg4
+Team SaGe,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dl_kVyguPgg
+S3dV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9JTBxfRLLvs
+Alpha.K V3,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Jol5IBMa298
+IslandXD,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Wp83se22Thw
+Non Anon / 亜音ノン 【EverAfter】,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qiwfxsPFMaw
+TREE3301,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fu03J5ltKPA
+Shinshin Variety,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gtgZ7yFYb58
+Apocalypce Gaming,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fFnpNBRZjP0
+Yuki & Yuna (Duo Leveling) | Twin Vtubers,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dmf0bm8crRE
+Mili,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ldo46W1_Htk
+Q Wang,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6vsLvXYts0A
+내가수영TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=RMjTIWEwYn8
+Abyss,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dw0rPratObw
+이회장,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xJ7pQ5bseGg
+瀬乃ここは -Seno Kokoha Ch.-,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=htlGyf5hXIo
+ぶんぶん,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=SjkTMn622F8
+しゅぁっち,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=K8jvyHknCug
+灰流まりも,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=L9sOOvED8fc
+ゆるりめぐ-Yururi Megu-,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=teu6g71fdhM
+정덱,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ZInpdvNSud4
+Guilherme Martynns,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fkkXBwk_Qrg
+ZLANER,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wnABQzt4pvI
+ESL Counter-Strike,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=r1TZzMcjh78
+Lucky Hop,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qrLlpjB0e-c
+BobbyPoffGaming,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=NvlHl9u5y1E
+Destroy,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=V-rMsSIyWnI
+Double H,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=a2RJ4Wg3ArM
+Dominant Dinosaurs,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=lsEWx2jLrYk
+하츠 HEARTS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=q9G6--HyRxw
+Desz,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IK-jNSG2rSY
+CesarFever,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=m1DAy2yQPqI
+JoePac,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=8zLCTNyO5iw
+Cynosia | Tiles Hop,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WMWrnzob96I
+Balasaurus Rex,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qfM3ztDKCq4
+Concacaf,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=j6tqi8aHmQQ
+公視體育,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=NI1B_fwlz5Y
+World Surf League,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=eLP3LO1PwEg
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=3RB6fyaWLIs
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5oP24BNA1TA
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2ezG6IZgHGc
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=y8JrY39TumU
+Heat Report By Chat Sports,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oizO9_BmEX8
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HJ2kXasW_nQ
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wRkSs7cw_hA
+BL Football Talks,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wfZ5kss2J4A
+Chelsea Football Club,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=InSpsvtlS6w
+Jimby Sports,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Y1ZMnXccE48
+Jimby Sports,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_fRKKGco5Ak
+Jimby Sports,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=XnSx1YhKYV8
+Baloncesto Superior Nacional,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=24CRDeatbGg
+Baloncesto Superior Nacional,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=sunl8Mf8-t0
+Baloncesto Superior Nacional,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hzJcEMc7Mxc
+Radio Jornal,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-eq_HDKcR7s
+เจนวิทย์ สุวรรณประสิทธิ์,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tubetnHAdAk
+Jovem Pan Esportes,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=PIPUQiMDIuw
+La Secta Deportiva,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6INnlCxn1V4
+Jovem Pan News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yIxQpUoWwtg
+Carlos Univazo Copello,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gZQHxfDujnw
+Fabiano Baldasso,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qD7zBK50tRE
+FLA TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=zdgfGRcX92U
+La Casaca Futbol,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WgyUPcc-U2E
+World Surf League,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=u32AN5HhYAo
+Flazoeiro TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wo6kyiFKZn8
+Deportes Al Taco,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=izMYACxktcA
+Vozes do Gigante,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ux5Z229i_lM
+Aakash Chopra,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=A5srvBb1HI4
+Rádio Craque Neto,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=w-wi7HXodKw
+Rádio Bandeirantes,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fYT_KJ7Y8xs
+Radio La Red AM 910,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6MdT6Q2l3Bg
+TV Jornal SBT,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Q7-W95djGIg
+REY DEPORTIVO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=lEtSEiiqn1k
+Web Rádio Galo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=95SUnvzMRGE
+VERDOLAGA TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=u9yjanAh8zE
+La Secta Deportiva,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TAy-bOx-JWY
+A Spor,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2iW-OI5_fEY
+Invasión Geek,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=eCbLGQxu0ZU
+Ecuador Comunicación,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9WG_xLtCUXA
+Zona Rubro Negra,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IhY37B9UrsM
+TNT Sports Argentina,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=skepJPx_N9U
+Bara Bahêa,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-RIG9mgWDKs
+Rádio Transamérica Esportes,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DTcHuRMcOhU
+ECDF - El Canal del Fútbol,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Uoq08bh1k8k
+Rádio Arena Futebol,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=akX5cD2cr7E
+Salimos Por abajo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IgL0vW-K-Q0
+Na Rede Oficial,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=7rUpMTfS7ns
+Jorge Bermudez,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=PmTYEytRzB4
+Alexandre Laureano Melo Xandymenor,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=47lOAqOqv5E
+Expresso Tricolor,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=3QSqWVc37w8
+Dibrou Sports Brasil,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0g6fknnNCaA
+Radio Jornal,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=RdMTUYbEWVc
+Horacio Zimmermann,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ww6mUcJFKrc
+REY DEPORTIVO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fOQGlbjZQtE
+RÁDIO BANDEIRANTES CAMPINAS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=mRmErvIA8Kk
+Nosso Palestra,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=PCgVuRKunuc
+Rádio Bandeirantes POA,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=d7OYi-4qXYY
+Dibrou Sports Brasil,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yoWRY6LBqzo
+Locked On Cubs,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=D5woUf3LMOg
+JTBC Entertainment,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CSdm4ebdcCE
+Locked On Sports Today,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LOBZMXKK4vE
+Rádio CBN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=is_Xcuvvf1w
+ADN Chile,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=eDPCDb_Dm3Q
+Rádio Arena Futebol,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ht5LOT7wB78
+Ecuador Comunicación,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ishbj44-SSo
+World Surf League,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=nmszys3OccM
+El Dactar ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1rA8aQHUfDo
+Once Inicial,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2X2o8Jm9wUk
+Rádio CBN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qpG8Wyinh_I
+Jon The Liquidator,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=QySLFbi-nis
+REY DEPORTIVO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qOV9bBFFq2E
+BTB SPORTS OFICIAL,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=YgDT7pHqHuc
+Canal EU ACREDITO!,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6vKGE5AYcH8
+Cábala Futbolera,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gacH7qnxLFo
+JC Play,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=zY0BhzYmzhY
+Rádio BandNews FM,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=K47ilaCsyR4
+REY DEPORTIVO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=RBJ3E2KTgVw
+REY DEPORTIVO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=XXVXStPUCC0
+Rádio Arena Futebol,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yWJGICg4zv0
+AWA Wiffle Ball,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0SzjYzHzmcI
+TV Jornal Interior,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qTdaK8fxZZI
+Diario Depor,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-VfHf1Z6Apo
+Antena 2,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1Z274eClenU
+Locked On Kentucky,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=KyK4A9CJth8
+CODE Sports,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=JXqRX-33IXA
+BRAVE Combat Federation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ti6LTg99nIA
+Locked On Giants (New York),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=JqwSQFnvvGs
+三立LIVE新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+Muse木棉花-闔家歡,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UK81GCw1KE8
+Lofi Girl,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jfKfPfyJRdk
+中天電視,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+Kaela Kovalskia Ch. hololive-ID,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Bbd9ZotOWok
+台視新聞 TTV NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+Muse木棉花-闔家歡,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2FJcu6qsM2k
+Thai Relax,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=GCXbKdVCwlg
+PokerGO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xRvDxesFEac
+民視新聞網 Formosa TV News network,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+Relaxed Mind,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vpCdR_L8kKk
+TVBS NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=bn7glmBPmIQ
+Timeless Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ZxluW--lZpk
+大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oV_i3Hsl_zg
+中天深喉嚨,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+三立iNEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=298QROP4xe0
+On Rainy Days,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Gn5VjWlu8vs
+Soft Calm Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tJ_ODGkvyEE
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+飢餓遊戲Hunger Games,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=3xe-R00ijC4
+Sleepy Cat ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=YLMhjMUx__M
+台灣啟示錄,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=YKor8d0UK7c
+The Good Life Radio x Sensual Musique,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=36YnV9STBqc
+大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=MIqUplvSRWA
+57東森財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1kzVPwTeKds
+Tim Janis,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dXIyMS61B68
+大陸尋奇,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pLxy7SRblyw
+豬哥會社,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=htGDPsz2BYI
+公視台語台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6KlRR_DGhmI
+華視新聞 CH52,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+Open Heart Music - Helios 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TAhHaHsDTkk
+57東森財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LbS-xQ67fos
+鏡新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+Relaxing Jazz BGM,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=prIbo7VQmH0
+martin oei,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DUNzB2euyqg
+公視新聞網,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=quwqlazU-c8
+中視經典綜藝,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=r_wsMgFLKys
+中視經典綜藝,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ADDSmXoPDY8
+ABC News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=w_Ma8oQLmSM
+Relaxing Fire Sound,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ZyGQMysy6sg
+Lofi Girl,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4xDzrJKXOOY
+Relaxing Jazz BGM,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=RBWmdkySmFE
+Tibetan Meditation Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=JxkrWxGtqJE
+Cafe Music BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Dx5qFachd3A
+Dream Relax Música,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-17_M3ED4p4
+Joy Music - Jazz Taiwan,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qN8hPh8Bad8
+Soothing Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-5ajVJ1Yxlg
+Cafe Music BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6uddGul0oAc
+RELAXATION (LoFi & CHILL),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5e4HgmwQuxc
+Matthew Chávez,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=86XzuPmMriw
+Soothing Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2OM7adQl-YQ
+Big Mouth - 纯音乐,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4fP5TORlMzc
+Cozy Jazz Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CpAUJqJWgL0
+
+Peppa Pig Deutsch - Offizieller Kanal,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=K1l0rbRdEdQ
+Muse木棉花-闔家歡,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UK81GCw1KE8
+Disney Junior,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Dkkp4KfdGPY
+Muse木棉花-闔家歡,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2FJcu6qsM2k
+Disney Junior,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OjlaUkllTss
+Hop Hop the Owl,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5dyhuNPbxkM
+PBS KIDS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=E3NOvf9WNAQ
+Disney XD,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Fjp2TdlTTIU
+The Amazing World of Gumball,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=cOLQACygN5A
+Jungle Beat,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=a5xRHBc289c
+Disney Channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WFDbJY0eBGI
+Doggyland - Kids Songs & Nursery Rhymes,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=carDz_prVpU
+Disney Junior,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0L6EvgWotfI
+Disney Junior,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DulkvDhBx08
+Hasbro,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TZ3mxF4U__k
+Disney Junior,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UmdMTatmQTQ
+Mellowbeat Seeker,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IUT1qAhMY4w
+N&T Party,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qWf-FPFmVw0
+RazNitzanMusic,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WYetg3AuLE4
+The Good Life Radio x Sensual Musique,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9UMxZofMNbA
+BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fEvM-OUbaKs
+RazNitzanMusic,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DPXQG8S9Xwc
+Cafe Music BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Dx5qFachd3A
+Cafe Music BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=SORD03t7nlo
+Future House Radio,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=GDQnA1LVCWA
+NAGASWARA RADIOTEMEN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Is03gZsBeq0
+Cafe Music BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6uddGul0oAc
+N&T Party,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=I9Kn7uYT9Vs
+Nemo's Dreamscapes,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=nR-Zen2s2Qw
+DATA LIVE,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=3dVI1qu_8BI
+Radio Hits Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HQtFR3mhzOY
+Relaxation Ambient Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=E5WpblyBR38
+中国乐器 - Traditional Chinese Music ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dB2KZBsEBwM
+TOKYO TONES,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Lcdi9O2XB4E
+Peaceful Relaxation 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=7ZO1r1-QgTE
+Love YourSelf,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jKUAGpoFdjA
+I Love You Venice,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2gO1v2GPMFk
+Explore Zen Den,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=a0i1Kg6fROg
+Relaxation Ambient Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tNkZsRW7h2c
+Love YourSelf,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xdckqJD4Bhk
+Lofi Girl,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jfKfPfyJRdk
+Best of Mix,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=C9qudJOsgnE
+Sleepy Dogs,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BZcu8MK_jfo
+Soothing Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2OM7adQl-YQ
+OCB Relax Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=l6J0ylYTO4s
+BGM channel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gzxFyqJfUeo
+Sleepy Cats,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OWTh2nbOYLk
+Monstercat Silk,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WsDyRAPFBC8
+Anjunadeep,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=D4MdHQOILdw
+Quiet Relaxation Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=QcBT3PG1kE8
+Soft Calm Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tJ_ODGkvyEE
+Lofi Girl,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=rUxyKA_-grg
+THE K-POP,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=JVocS7Yftw8
+THE K-POP2,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jCg2DzrukDo
+마인드피아노 MIND PIANO,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=togqZ2E6g1k
+ALL THE K-POP,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=G3NX_hzCuFM
+Safari Wonders 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=b3gyeQf1S_M
+Relaxing Nature In 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=N7oOyWgPYwM
+JTBC Entertainment,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CSdm4ebdcCE
+JTBC Entertainment,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CSdm4ebdcCE
+Arirang Radio K-Pop,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=P1fX2GGdVS0
+Arirang TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CJVBX7KI5nU
+台視新聞 TTV NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xL0ch83RAK8
+大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oV_i3Hsl_zg
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞 CH52,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+TTV LIVE 台視直播,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uDqQo8a7Xmk
+大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=MIqUplvSRWA
+鏡新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+大愛電視 Tzu Chi DaAiVideo,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OKvWtVoDR8I
+公視台語台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6KlRR_DGhmI
+57東森財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=LbS-xQ67fos
+三立iNEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+中天深喉嚨,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+民視新聞網 Formosa TV News network,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+新唐人亞太電視台NTDAPTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WIhgU_mc05A
+57東森財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+中天電視,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4HysYHJ6GkY
+三立LIVE新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+TVBS NEWS,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+公視新聞網,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=quwqlazU-c8
+寰宇新聞 頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6IquAgfvYmc
+公視 網路直播頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=C6gYqSHLRw4
+CTIASIA 中天亞洲台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=s2waUruqze4
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Lj8OWF6nzcg
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IvAXtzx5cUI
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Af0TFVbxvAQ
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Qo9QwuCpV3s
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yUx5lB4mhZk
+國會頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tDg3bJFYLzI
+寰宇新聞 頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇財經新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=25SE1bbTv9k
+LIVE NOW,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=bEZYrBMYNNg
+運通財經台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=7Bwq6Ltrj1o
+Arirang TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CJVBX7KI5nU
+CGTN на русском,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1L8VpTaLyNs
+Channels Television,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ENHYOYm-kUE
+TVC News Nigeria,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OKDXKY3LtAo
+Arise News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=nvvLD5TNAwQ
+CGTN Français,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DxhwEQjegYw
+LiveNOW from FOX,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=YDfiTGGPYCk
+Eyewitness News ABC7NY,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oFOTr81KHLg
+ABC13 Houston,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6EdywNFYhu8
+Sky News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=w9uJg68CV4g
+ABC7,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-E0AHOOGo24
+Yahoo Finance,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OAHHA27td-A
+ABC News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gN0PZCe-kwQ
+WISN 12 News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2igPVdN3ERE
+Liputan6,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=AKQmj8YHZ9c
+Utonish,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Tischs8TNMo
+SÖZCÜ Televizyonu,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2i8lfP9oqvk
+ABC7 SWFL,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=eXZ4-qp16nI
+WION,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gadjsB5BkK4
+CGTN Europe,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Zv60F39Is_c
+Crónica TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=avly0uwZzOE
+Todo Noticias,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=cb12KmMMDJA
+CNBC Arabia TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=I-qP4xS7vPg
+India Today,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=sYZtOFzM78M
+CBN News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CG2XDTgvZPo
+Al Jazeera Mubasher قناة الجزيرة مباشر,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=mJdhDuweBHM
+CNBC-TV18,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1_Ih0JYmkjI
+TalkTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WguRyzIb4bE
+WION,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OWmhz00Q5xg
+ABC News (Australia),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vOTiJkg1voo
+CNBC-TV18,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=P857H4ej-MQ
+euronews (en español),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=O9mOtdZ-nSk
+euronews (deutsch),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CQ3KsEbsYHs
+euronews (στα ελληνικά),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uWIhV9gQClg
+euronews (magyarul),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jAn7L2Kt32U
+euronews (in Italiano),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pUcmpyynASM
+euronews,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pykpO5kQJ98
+TRT World,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5VF4aor94gw
+فرانس 24 / FRANCE 24 Arabic,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=VuYzy8IuT0Y
+FRANCE 24 Español,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Y-IlMeCCtIg
+FRANCE 24 English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tkDUSYHoKxE
+FRANCE 24,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=l8PMl7tUDIE
+Bloomberg Television,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=iyOq8DhaMYw
+DZRH News Television,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=rlOW_ZFwK68
+Schwab Network,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BWhVz1ozr1o
+USA TODAY,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vZYMwAm8sso
+United Nations,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wfAa1GiNdgM
+سكاي نيوز عربية,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=me1fBxx9wJY
+KBS WORLD TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OxQQsIvJTTU
+Настоящее Время,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=t9Ilev-uk4w
+euronews (en français),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=NiRIbKwAejk
+Euronews по-русски,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=lwYzwdBiaho
+Above & Beyond,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IvuwTft-0cM
+ARY News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=sUKwTVAc0Vo
+【公式】HOME広島ニュース,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=e2pgLUmaxGs
+DW Español,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tsStUN73_6I
+Hare Krsna TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=RYqewnoTqWQ
+FOX Weather,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=iesPl7zRbVY
+Geo News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=O3DPVlynUM0
+Al Jazeera English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gCNeDWCI0vo
+Al Jazeera Mubasher قناة الجزيرة مباشر,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=8D5QY5gw_Xk
+Show TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=XnvS-RZa4Qw
+WDW Today,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uILxp16tKl8
+V6 News Telugu,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_xtceKvlVYQ
+Ambient Renders,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=oXvPA6l4pts
+Live SupremeMasterTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ZzWBpGwKoaI
+ABC13 Houston,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5jPqMDjJKpM
+GBNews,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=8WX6YL9JnLw
+Al Jazeera Balkans,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=y8JcLOL4yiQ
+Al Jazeera Mubasher قناة الجزيرة مباشر,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=eksOMqVMINo
+AlJazeera Arabic  قناة الجزيرة,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=bNyUyrR0PHo
+24 Канал онлайн,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hns12gYNRq0
+ForexLia,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Cf9klXhb0G8
+CNBC,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9NyxcX3rhQs
+Mathrubhumi News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=YGEgelAiUf0
+tvOneNews ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yNKvkPJl-tg
+ТСН,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=7heWRN252pQ
+TBS eFM 101.3MHz,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=i2pC0RRyGMg
+mtaOnline1,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=cu-0mGA8x50
+POWERVISION TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=L42NP9a8paw
+العربي - أخبار ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=e2RgSa1Wt5o
+TJK TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=kDvc4MSsnyI
+Show TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Y3vGHFrsqrs
+BloombergHT,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hHSmBJk6w0c
+YTN 사이언스,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xfFa_kcPnCY
+SODANEチャンネル,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=kfIQBC0hrII
+ YTN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=FJfwehhzIhw
+Kral Müzik,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=GuFTuKoXepw
+ABC13 Houston,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=z-VVLWWvAEU
+ABC13 Houston,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BbILbeRIOs4
+CNBC Awaaz.,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TD0A7fHAxKw
+Bloomberg Quicktake,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DxmDPrfinXY
+TVL Trzcianka,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=e2gC37ILQmk
+BorderBuddy Customs Brokers,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HBDD3j5so0g
+Mobotix Webcams Russia,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=h1wly909BYw
+CNA,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=XWq5kBlakcQ
+mtaOnline1,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TEGnBvhnCj0
+YTN2,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hxBTqmTT5gE
+NHK WORLD-JAPAN,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
+CNN TÜRK,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ue9SnIpwNB4
+
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vuTY4FDAbpA
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=F8gbJUXaeo0
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0_A9J3q3SrE
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=06bk6jovtUU
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OXmnrfj2ERc
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jsDtKdLupQ8
+English Speeches,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=k_2FA6vyOgM
+ABC Learning English,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=eR_F3PIbFsE
+English Jade · Learn English with engVid,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=SCWeBq8SyQQ
+English Practice Makes Perfect 英語熟能生巧,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=kyHIJ3Ij9SU
+Learn English with EnglishClass101.com,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wpCs-6xU578
+Adam’s English Lessons · engVid,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=9TIXPeyUR7c
+Learn Swedish with SwedishPod101.com,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=O3jGMfjFE0I
+Learn English with Gill · engVid,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5boNKBoDlf0
+English Tutor Class,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=YjNtA58Sw-I
+English Speeches,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Qeg-4kS9Hbo
+English Speeches,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=OSXxqH9j8NY
+I Love You Venice,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HpZAez2oYsA
+Techandtrains101,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=2g-0sA13Sp8
+Rotterdam Make It Happen Live.,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gsViKzj7nuQ
+NASA,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=21X5lGlDOfg
+See Jackson Hole,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1EiC9bvVGnk
+Information Zulu,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=t0GrpAgdBFI
+淡路ザル,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=lsxYH2XQQCg
+The Good Life Radio x Sensual Musique,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=36YnV9STBqc
+Umbria Webcam,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=50kkmEoTMcY
+NASA,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=nA9UZF-SZoQ
+Taipei Travel Live Cam  台北觀光即時影像 ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=z_fY1pj1VBw
+I Love You Venice,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=rVyP35EHCzY
+Umbria Webcam,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=PfBPe5Jfzxo
+DELTATECH Calgary,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xsRDTfuksyI
+I Love You Venice,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=K_Vg94nBiaY
+Joensuu live,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yA4aFD0AjDs
+阿里山國家風景區管理處,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dY2cRNr5Buw
+AE Signage,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=4qyZLflp-sI
+Paesaggi Digitali,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=QpqsJKI0Wfk
+Amazing Taitung 台東就醬玩,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UCG1aXVO8H8
+See Transylvania,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=G05wmWFDtSo
+Lillestrøm kommune,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=XGgnP29GFhw
+I Love You Venice,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ph1vpnYIxJk
+Port of Helsinki,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=CvOB-Is_yYU
+I Love You Venice,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=JqUREqYduHw
+Tokyo Skyline,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=8i9ltzhq80s
+NASASpaceflight,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=mhJRzQsLZGg
+高雄旅遊網,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=C03Itx8iSC0
+Virtual Railfan,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=BahXDYWQAKk
+KawazuLiveCam,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Xn7YQxxC5R0
+歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+MARUNUMA,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DSEesr7uFh8
+NamibiaCam,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ydYDqZQpim8
+Daily Seoul Live Camera - Hangang,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=-JhoMGoAfFc
+樂遊金門,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uh_yNAE01w8
+新北旅客 New Taipei Tour,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xwAWSh35uuw
+東部海岸國家風景管理處,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wTHhv7M0vCI
+阿里山國家風景區管理處,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=j2L_559nCjc
+Önkormányzat EGER,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IELAhyaUKVk
+歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gFRtAAmiFbE
+neoguru,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=czV_hXEMk8M
+桃園智慧旅遊雲 Taoyuan Travel,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=tD_a03trUvE
+Amazing Taitung 台東就醬玩,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=q3KJt-SZc2s
+宗教法人 浅草寺 公式チャンネル (Sensoji Temple),http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=nOk4cd0kkp8
+JAPAN 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=cH7VBI4QQzA
+Japan Walk,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gC4dJGHWwDU
+STV札幌テレビ放送 公式,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=bQMP7-GzdIQ
+Cal Falcons,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=7nvCVS2TRRk
+Melbourne Luxury Accommodation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=l_8DrACHpwY
+ABC13 Houston,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fix2LD9onS0
+TeNY新潟一番ニュース,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IQms8zArI7w
+Sydney Live Camera,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=sWWCy2WCjRA
+FourSeasons BuenosAires,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=if91GyWP3zQ
+See Transylvania,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=8hgQsI1CfsY
+Sydney Live Camera,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=KPrrWB1eo1I
+Taipei Travel Live Cam  台北觀光即時影像 ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ndo_8RuefH4
+Our Planet 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=h-mRJ7XwOKQ
+Taipei Travel Live Cam  台北觀光即時影像 ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fP4ecxfsJos
+Explore Africa,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=DsNtwGJXTTs
+Mittarfeqarfiit,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IZhDwv4dz0g
+LIVE Trains,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gpSR9c0p6lI
+Tim Janis,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dXIyMS61B68
+City of Coldwater MI,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ByED80IKdIU
+Amsterdam Live,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=PyNuRpZOtAY
+Love YourSelf,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qpk2F4gI0Ys
+Explore Live Nature Cams,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=g_L1Ay8P244
+NASASpaceflight,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=cOmmvhDQ2HM
+Bouwwebcam - live stream & timelapse video,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1phWWCgzXgM
+Salt Lake Sunset,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ymaZB3c3DT4
+PTZtv,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=WBvHHNXXeqw
+Explore Birds Bats Bees,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IVmL3diwJuw
+Scenari Digitali,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=V8bAmLhlHQ4
+PeaceBridgeAuthority,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dvmRgN1FMK0
+Alpengasthof Tannenalm,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=qwjt-gnItvg
+inosak,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=7agE233fpM4
+12K Scenic Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vQP8AwAFzI8
+DELTATECH Calgary,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=MwcqP3ta6RI
+12K Scenic Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1cQoYBb0Xow
+12K Scenic Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Rse-E5tARaY
+Relaxation Film,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1lfZqksTVOU
+FOBBV CAM,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=B4-L2nfGcuE
+Taipei Travel Live Cam  台北觀光即時影像 ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uvwfYzwY8tg
+Open Heart Music - Helios 4K,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=TAhHaHsDTkk
+Explore Africa,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=pZZst4BOpVI
+SlowTV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=gvxM3fr1tWc
+City of Hollywood,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=cmkAbDUEoyA
+Live from Iceland,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Flb8X7QQQKI
+PARIS TV,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=PnjX0u6B1yA
+HANS NATUURKANAAL,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=D1VM6V6wmU0
+Bottercourant,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UWZNkLXKDpo
+大玩台中-臺中觀光旅遊局,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=lhXXhDyjFtI
+澳門特別行政區政府市政署IAM,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ctYalRx7kY4
+NASASpaceflight,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Jm8wRjD3xVA
+JDQ-地震情報,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=HXGANE2pRrA
+momo購物一台 CH48,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+momo購物二台 CH35,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=xbNWkUyxQGM
+Live東森購物台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+Live東森購物台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Z50JFuNgvB0
+Live東森購物台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=u0NYyH3ZesE
+Live東森購物台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_Vlzn9qAHD4
+HSNtv,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=1ph8qQnjXts
+QVCtv,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UqFzfqlb60g
+QVCtv,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Qt2c93O1p_c
+QVCtv,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=_v_wMS-uACE
+HSNtv,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=q-BvtDrTnxc
+STEEZYASFUCK,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=lP26UCnoH9s
+CHANNEL21online,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=0Vz3bK6K0f4
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=298QROP4xe0
+中視經典綜藝,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=ADDSmXoPDY8
+Radio Hits Music,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uNd5kvrGHjk
+愛爾達綜合台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Ul9z5eUphFY
+愛爾達綜合台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=I7yYOp7Tqdw
+愛爾達綜合台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=yh3ZLBl7kt0
+愛爾達綜合台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=iOxw4bgNxa4
+愛爾達綜合台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=6st08Em5RbM
+Explore Bears & Bison,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=3szkFHfr6sA
+台灣地震監視,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Owke6Quk7T0
+豬哥會社,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=htGDPsz2BYI
+Kitten Academy,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=R7vrbiDi0Tc
+愛爾達影劇台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=be6L9zpVqw4
+愛爾達影劇台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=FdoVTSTSMho
+12K Scenic Relaxation,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=vQP8AwAFzI8
+飢餓遊戲Hunger Games,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=A98LJq71BZg
+華視綜藝頻道,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=IsFtLpSuf_g
+Eight FM,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=o1ipHJUfFTM
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hbm8Uov-YOE
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=dZNl1pqkPuA
+大陸尋奇,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=fl1iFkAWcVU
+愛爾達綜合台,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=Vu_eDZF3PXU
+民視戲劇館 Formosa TV Dramas,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=wJ5i4x9_kEY
+台視時光機 ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=W1pHB9VGjrw
+台視時光機 ,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=SoXyBzGajJQ
+中視經典戲劇,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=jkF7cseHZ5s
+不良林,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=uSkT4MwpCYA
+GTV DRAMA 八大劇樂部,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=u1uU2AzsD0k
+台灣啟示錄,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=5TRvk38m59M
+GTV DRAMA 八大劇樂部,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=hcxLMIfxi0A
+龍華電視,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=UrBH5NwAAB8
+三立華劇 SET Drama,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=XrLUbJJ3S2M
+三立華劇 SET Drama,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=he_Zx7smZqk
+GTV DRAMA 八大劇樂部,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=mkZRq57c438
+Arise News,http://127.0.0.1:9978/proxy?do=yt&proxy=127.0.0.1:10072&url=https://www.youtube.com/watch?v=nvvLD5TNAwQ
