@@ -91,18 +91,7 @@
 			"changeable": 2,
 			"timeout": 60,	
 			"ext": "./lib/al.json"
-		},
-		{
-			"key": "csp_Wexduanjuquark",
-			"name": "😍夸克短剧┃直连",
-			"type": 3,
-			"api": "csp_Wexduanjuquark",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;abd7de963094093f674c391183001b3a"
-		},
+		},	
 		{
 			"key": "csp_Wexduanjuvop",
 			"name": "⌛️秒播短剧┃直连",
