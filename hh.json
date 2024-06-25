@@ -57,28 +57,30 @@
 			"changeable": 2,
 			"ext":{
 				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"buvid3=CAD43663-C26B-A9BC-1F2E-684F0B3BB43B54887infoc; bsource=search_baidu; buvid4=6E5BE2E4-A9D4-7E1C-B7A8-3B22DBC4797258063-124042808-FSjiKSJkYVIXgNjk4a80hA%3D%3D; bmg_af_switch=1; _uuid=6529ED106-43DB-E6103-9ED7-E588F4A92E8D58918infoc; b_nut=100; buvid_fp=7a89f992cffb1ef458b80f1231b48f81; b_lsid=92810B3E6_18FFB180C67; bmg_src_def_domain=i0.hdslb.com; SESSDATA=a8ac0d94%2C1733456639%2C80e05%2A62CjC5QSxoEcsVti79OgumxxBUjLNOKzP8HqekbYavojLhTkb2O7yru4XgwBIb0_GnsQYSVk5fMjN0UnhtMWt3NWpYM1FKSDNpQmdXUGNJRHJzMXZYUE1RX3FKTmkwSUt4emtvZktqdmJ4Z3pxWVJxa1QyOEpWZXR2X2VlaW1WVzM2UzI4bDdqRnJBIIEC; bili_jct=3820521a7e3b7165c44520983f6e3928; DedeUserID=3546687115103036; DedeUserID__ckMd5=bd39b9bb76b5a55e; sid=hi31kyiy"
+				"cookie":"buvid3=44DBF22A-B60B-955B-DE01-4B9D64CF9F9017701infoc; bsource=search_baidu; buvid4=84F7F4DB-9F1A-8010-818D-86D35BAA372B19526-124062115-8MSlMq49BIiAXsvoFshSJA%3D%3D; _uuid=D25E10691-310E7-F165-298F-1E95926C9981019957infoc; buvid_fp=2646a0723d916b230869e2a20c23c2de; sid=8ajhctg3; rpdid=|(J|)lR~)RmJ0J'u~u)m)JmYl; b_lsid=D461063C9_1904E8EE3F1; b_nut=100; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTk1NjQyMDUsImlhdCI6MTcxOTMwNDk0NSwicGx0IjotMX0.4b2xftnf17cr5i4Hhvedfbd-kUYG2U7b8yQysNDYoE4; bili_ticket_expires=1719564145"
 			}
 		},
 		{
-			"key": "csp_Yinyuetai",
+			"key": "csp_WexYinyuetai",
 			"name": "🎶音悦台┃音乐",
 			"type": 3,
-			"api": "csp_Yinyuetai",
+			"api": "csp_WexYinyuetai",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 2
+			"changeable": 2,
+			"jar": "./jar/ll.jar;md5;abd7de963094093f674c391183001b3a"
 		},
 		{
-			"key": "csp_Iktv",
+			"key": "csp_WexIktv",
 			"name": "🎙KTV┃音乐",
 			"type": 3,
-			"api": "csp_Iktv",
+			"api": "csp_WexIktv",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 2
+			"changeable": 2,
+			"jar": "./jar/ll.jar;md5;abd7de963094093f674c391183001b3a"
 		},
 		{
 			"key": "csp_Alist",
