@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;962803b568c2da4fe9a7aeaaddaef8bd",
+	"spider": "./jar/pg.jar;md5;30758301930316748eb0ad79d8cdbce7",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -2098,7 +2098,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 1801,	
-			"ext": "./lib/ab.json$$$http://javdb3656.com"
+			"ext": "./lib/ab.json$$$http://javdb3656.com$$$noproxy"
 		},
 		{
 			"key": "csp_JavBus",
@@ -2114,7 +2114,7 @@
 			},
 			"changeable": 2,
 			"timeout": 1801,
-			"ext": "./lib/ab.json$$$https://www.busdmm.art"
+			"ext": "./lib/ab.json$$$https://www.busdmm.art$$$noproxy"
 		},
 		{
 			"key": "csp_Doll",
