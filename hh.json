@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;3a96a92c925e612936c4f8f6033b6fa2",
+	"spider": "./jar/pg.jar;md5;a9f24be6589dbb8f3773ec299deabb5d",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/hh.jpeg",
 	"sites": [{
@@ -1924,6 +1924,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext":{
+				"token":"./lib/aa.json",
 				"json":"./lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"proxy":"127.0.0.1:10072",
