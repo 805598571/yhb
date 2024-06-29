@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;418d1a037e85820da595e077ee4e71b1",
+	"spider": "./jar/pg.jar;md5;90cf8fa4799b16213ef02d14b8f18102",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/hh.jpeg",
 	"sites": [{
@@ -1740,7 +1740,7 @@
 			],
 			"changeable": 2
 		},
-		{"key":"XBPQ_文才","name":"📝文才┃XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
+		{"key":"XBPQ_文才","name":"📝文才┃XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧",
 				"分类值": "14&42&22&26&36&25&30&23&69&15&16&62",
 				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -1776,7 +1776,7 @@
 			},
 			"changeable": 2
 		},	
-		{"key":"XBPQ_黑狐影院","name":"🦊黑狐影院┃XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
+		{"key":"XBPQ_黑狐影院","name":"🦊黑狐影院┃XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -1814,7 +1814,7 @@
 		{
 			"key":"XBPQ_电影先生",
 			"name": "👨‍🎤电影先生┃XBPQ",
-			"jar": "./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
+			"jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -1833,7 +1833,7 @@
 			},
 			"changeable": 2
 		},
-		{"key": "XBPQ_麻衣影院","name":"🧀麻衣影院┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
+		{"key": "XBPQ_麻衣影院","name":"🧀麻衣影院┃XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"},
 			"changeable": 2
 		},
@@ -1843,7 +1843,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": 1,
-			"jar": "./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
+			"jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext": {
 				"主页url": "https://www.xbw20.com/",
 				"编码": "gb2312",
@@ -1869,7 +1869,7 @@
 			"filterable":1,
 			"ext": "./lib/bttt.json",
 			"changeable": 2,
-			"jar": "./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d"
+			"jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
 		},
 		{
 		    "key":"布谷tv",
@@ -1879,7 +1879,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"jar": "./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d",
+			"jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 			"ext":{
 				"搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
 				"简介":"◎简*介</p>&&</p>",
@@ -1913,7 +1913,7 @@
 				"播放列表":"<ul>&&</div>[包含:magnet]"
 			},
 			"changeable": 2,
-			"jar": "./jar/XBPQ.jar;md5;c3c6c85676f3114dcf03531a6649d31d"
+			"jar": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
 		},
 		{
 			"key":"Youtube",
