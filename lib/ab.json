@@ -19,7 +19,7 @@
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
-'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=44435fe173e06dc82c26a00ecf1e3bef',
+'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=173d32df566000ad65316657a96b1ffd',
 'proxy':'',
 'open_api_url':'get|https://adrive.xdow.net/oauth/access_token',
 'oauth_client_id':'641d844e426841ea90cf6f3f933e0af7',

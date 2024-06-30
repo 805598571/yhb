@@ -18,7 +18,7 @@
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
-'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=44435fe173e06dc82c26a00ecf1e3bef',
+'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=173d32df566000ad65316657a96b1ffd',
 'proxy':'',
 'open_api_url':'get|https://adrive.xdow.net/oauth/access_token',
 'oauth_client_id':'641d844e426841ea90cf6f3f933e0af7',
@@ -62,7 +62,7 @@
 'youtube_proxy':'127.0.0.1:10072',
 'singbox_url':'./sing-box.gz;md5=a13f87deb17cbb5201eae4b671e1209d',
 'singbox_subscribe_url':'',
-'singbox_clash2singbox_url':'./clash2singbox.gz;md5=867bd05bb4d4248c5ab912b3cf934134',
+'singbox_clash2singbox_url':'./clash2singbox.gz;md5=2f47a7b0f115051aae299aa5a91d376d',
 'singbox_template_url':'./singbox.json',
 'singbox_wgcf_json_url':'./wgcf2singbox.json'
 }
