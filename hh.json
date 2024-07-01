@@ -34,15 +34,6 @@
 			"jar": "./jar/hh.jar;md5;a610e504d51ef5a186ffb53c7c8072ac"
 		},
 		{
-			"key": "T4-CNTV",
-			"name": "🇨CNTV┃T4",
-			"type": 4,
-			"api": "https://serv.leuse.top/vod/cntv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 2
-		},
-		{
 			"key": "csp_Bili",
 			"name": "👨‍👩‍👦‍👦哔哩┃合辑",
 			"type": 3,
@@ -57,7 +48,7 @@
 			"changeable": 2,
 			"ext":{
 				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"buvid3=44DBF22A-B60B-955B-DE01-4B9D64CF9F9017701infoc; bsource=search_baidu; buvid4=84F7F4DB-9F1A-8010-818D-86D35BAA372B19526-124062115-8MSlMq49BIiAXsvoFshSJA%3D%3D; _uuid=D25E10691-310E7-F165-298F-1E95926C9981019957infoc; buvid_fp=2646a0723d916b230869e2a20c23c2de; sid=8ajhctg3; rpdid=|(J|)lR~)RmJ0J'u~u)m)JmYl; b_lsid=D461063C9_1904E8EE3F1; b_nut=100; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTk1NjQyMDUsImlhdCI6MTcxOTMwNDk0NSwicGx0IjotMX0.4b2xftnf17cr5i4Hhvedfbd-kUYG2U7b8yQysNDYoE4; bili_ticket_expires=1719564145"
+				"cookie":"buvid3=44DBF22A-B60B-955B-DE01-4B9D64CF9F9017701infoc; bsource=search_baidu; buvid4=84F7F4DB-9F1A-8010-818D-86D35BAA372B19526-124062115-8MSlMq49BIiAXsvoFshSJA%3D%3D; _uuid=D25E10691-310E7-F165-298F-1E95926C9981019957infoc; buvid_fp=2646a0723d916b230869e2a20c23c2de; sid=8ajhctg3; rpdid=|(J|)lR~)RmJ0J'u~u)m)JmYl; b_nut=100; b_lsid=1CDD9B27_1906DF15C59; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjAwOTA3MDAsImlhdCI6MTcxOTgzMTQ0MCwicGx0IjotMX0.rvT3STgQ9NDVuZEq2GkjG3O2uPdCQL8beNFvEui-GO8; bili_ticket_expires=1720090640"
 			}
 		},
 		{
