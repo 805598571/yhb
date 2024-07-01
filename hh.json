@@ -468,7 +468,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./lib/aa.json$$$null$$$noproxy$$$1"
+			"ext": "./lib/aa.json$$$null$$$127.0.0.1:10072$$$1"
 		},
 		{
 			"key": "热播",
