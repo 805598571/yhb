@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;2d720579dec380af301010354f50408c",
+	"spider": "./jar/pg.jar;md5;c32befccf633bf08feddc2d5d18a6b5b",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/hh.jpeg",
 	"sites": [{
@@ -458,6 +458,17 @@
 			"filterable": 1,
 			"changeable": 2,
 			"ext": "./lib/aa.json$$$https://www.yjys01.com/$$$127.0.0.1:10072$$$1"
+		},
+		{
+			"key": "欧乐",
+			"name": "🪇欧乐┃直连",
+			"type": 3,
+			"api": "csp_Olevod",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"ext": "./lib/aa.json$$$null$$$noproxy$$$1"
 		},
 		{
 			"key": "热播",
