@@ -1424,18 +1424,7 @@
 			"changeable": 2,
 			"timeout": 30,		
 			"ext": "./lib/ab.json"
-		},
-		{
-			"key": "csp_Nbys",
-			"name": "🛫泥巴┃直连",
-			"type": 3,
-			"api": "csp_NiNi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"ext":"1$$$noproxy" 
-		},
+		},	
 		{
 			"key": "csp_Star",
 			"name": "⭐星视界┃直连",
@@ -1447,17 +1436,7 @@
 			"changeable": 2,
 			"ext":"noproxy"
 			
-		},
-		{
-			"key": "csp_YingShi",
-			"name": "🎬影视┃直连",
-			"type": 3,
-			"api": "csp_YingShi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2
-		},
+		},	
 		{
 			"key": "独播",
 			"name": "🦄独播┃直连",
@@ -1466,17 +1445,6 @@
 			"searchable": 1,
 			"changeable": 2,
 			"ext": "./lib/duboku.json$$$noproxy"
-		},
-		{
-			"key": "csp_trj",
-			"name": "🍡唐人街┃直连",
-			"type": 3,
-			"api": "csp_Tangrenjie",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;a610e504d51ef5a186ffb53c7c8072ac"
 		},
 		{
 			"key": "dr_兔小贝",
