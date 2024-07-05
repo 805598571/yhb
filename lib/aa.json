@@ -1,6 +1,11 @@
 {
-'use_internal_storage':false,
-'token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlN2JiYjUzMThhNjI0Mzg3YTk0ZjE4NzdlYmU2YTIxZiIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNzI1OTQyMDIyLCJpYXQiOjE3MTgxNjYwMjIsImp0aSI6ImRlYjBiZTViOWVhYTRiZDE5YjlhNTBhM2YzMDIxNTMyIn0.CCaU0G61ESXjl43jwZM-bW4JIaa50QG_N7eYGhCAiinaH1idMGcGxrgFdD_Z47ErF06YazS3J67pRC1L9gB9Xg',
+'token':'208b28514b64483fb2897905a6b50269',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlN2JiYjUzMThhNjI0Mzg3YTk0ZjE4NzdlYmU2YTIxZiIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNzI3OTYzMTkwLCJpYXQiOjE3MjAxODcxOTAsImp0aSI6IjEyOGNjMzgzNzgxYjRmZWRhOGM5MzAxOTc4ZjVmOGY1In0.pV76Cvoew1hqiYUvrb0rj1GeWPnMeZkgQvkqGqKYxWjmlwdFgJCGKsYswa3yppe5JGRyjjbgSsKSWuZs8i6Otw',
+'open_api_url':'get|https://adrive.xdow.net/oauth/access_token',
+'oauth_client_id':'641d844e426841ea90cf6f3f933e0af7',
+'oauth_client_secret':'',
+'oauth_auth_url':'',
+'oauth_refresh_url':'',
 'thread_limit':32,
 'is_vip':true,
 'vip_thread_limit':0,
@@ -20,11 +25,6 @@
 'aliproxy':'',
 'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=173d32df566000ad65316657a96b1ffd',
 'proxy':'',
-'open_api_url':'get|https://adrive.xdow.net/oauth/access_token',
-'oauth_client_id':'641d844e426841ea90cf6f3f933e0af7',
-'oauth_client_secret':'',
-'oauth_auth_url':'',
-'oauth_refresh_url':'',
 'danmu':true,
 'quark_danmu':true,
 'quark_cookie':'__pus=c9d812947208e96d629bb48edb94457cAARymqA48yfktGNXsOhQvbpkH1rW4zhtSQO8iYV/9mwcC7Ng4qE905+fJS17EGseuw+OQzKQej/+rIt5rYQdaJJI',
@@ -63,6 +63,5 @@
 'singbox_url':'./sing-box.gz;md5=a13f87deb17cbb5201eae4b671e1209d',
 'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=e1b5c59e04440769865978b3358dcf1a',
 'singbox_clash2singbox_url':'./clash2singbox.gz;md5=37d3cc41a50b82ea371733aeba5afa7f',
-'singbox_template_url':'./singbox.json',
-'singbox_wgcf_json_url':'./wgcf2singbox.json'
+'singbox_template_url':'./singbox.json'
 }
