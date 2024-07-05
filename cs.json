@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;3815819b82a6029d44e758c91ab13de6",
+	"spider": "./jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -2376,13 +2376,6 @@
 			"name": "晴天",
 			"type": 0,
 			"url": "./qt.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "星视界",
-			"type": 0,
-			"url": "./xsj.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
