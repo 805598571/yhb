@@ -47,5 +47,6 @@
 'pikpak_proxy_onlyapi':false,
 'pikpak_danmu':true,
 'libxl_url':'./libxl_thunder_sdk.so',
-'youtube_proxy':''
+'youtube_proxy':'',
+'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=e1b5c59e04440769865978b3358dcf1a'
 }

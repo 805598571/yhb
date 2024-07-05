@@ -61,7 +61,7 @@
 'libxl_url':'./libxl_thunder_sdk.so',
 'youtube_proxy':'127.0.0.1:10072',
 'singbox_url':'./sing-box.gz;md5=a13f87deb17cbb5201eae4b671e1209d',
-'singbox_subscribe_url':'',
+'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=e1b5c59e04440769865978b3358dcf1a',
 'singbox_clash2singbox_url':'./clash2singbox.gz;md5=37d3cc41a50b82ea371733aeba5afa7f',
 'singbox_template_url':'./singbox.json',
 'singbox_wgcf_json_url':'./wgcf2singbox.json'
