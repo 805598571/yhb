@@ -1,96 +1,301 @@
 {
-  "spider": "./jar/o.jar;md5;d4dab21a9595058b00f4ad2ce977baf4",
-  "wallpaper": "https://gao.chuqiuyu.tk",
-  "sites": [
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "drives": [
-          {
-            "name": "SOD",
-            "server": "https://a.sodaz.xyz"
-          }
-        ]
-      }
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "ext": "1"
-    },
-    {
-      "key": "量子",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1
-    },
-    {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1
-    },
-    {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1
-    },
-    {
-      "key": "MissAV",
-      "name": "MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1
-    },
-    {
-      "key": "Supjav",
-      "name": "Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1
-    },
-    {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1
-    },
-    {
+	"spider": "./jar/pg.jar;md5;d89d3a77a06f18893a763fdc2224669f",
+	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+	"logo":"./lib/cs.jpeg",
+	"sites": [
+		{
+			"key":"Youtube",
+			"name":"⛽️Youtube｜视频",
+			"type":3,
+			"api": "csp_Youtube",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"token":"./lib/ab.json",
+				"json":"./lib/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"proxy":"noproxy",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":""
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+		{
+			"key": "csp_PikPakShare.a",
+			"name": "🎁PikPak┃网盘",
+			"type": 3,
+			"api": "csp_PikPakShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "./lib/ab.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
+		},
+		{
+			"key": "csp_PikPakShare.a1",
+			"name": "🧧PikPak┃网盘",
+			"type": 3,
+			"api": "csp_PikPakShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "./lib/ab.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.txt.gz"
+		},
+		{
+			"key": "csp_Netflav",
+			"name": "🇳Netflav┃直连",
+			"type": 3,
+			"api": "csp_Netflav",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,
+			"ext":"null$$$noproxy"
+		},
+		{
+			"key": "Cable",
+			"name": "🈲Cable┃直连",
+			"type": 3,
+			"api": "csp_Cable",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,
+			"ext":"noproxy"
+		},
+		{
+			"key": "csp_Taohuazu",
+			"name": "🍑桃花族┃App",
+			"type": 3,
+			"api": "csp_Taohuazu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"timeout": 1801,
+			"ext":"./lib/ab.json$$$http://777631.xyz/$$$noproxy$$$1"
+		},	
+		{
+			"key": "csp_SeHuaTang",
+			"name": "🥀色花堂┃Mix",
+			"type": 3,
+			"api": "csp_SeHuaTang",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"timeout": 1801,
+			"ext":"./lib/ab.json$$$null$$$noproxy"
+		},
+		{
+			"key": "csp_Xojav",
+			"name": "🇽XOjav┃直连",
+			"type": 3,
+			"api": "csp_Xojav",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"timeout": 1801,
+			"ext":"null$$$noproxy"
+		},
+		{
+			"key": "csp_JavDb",
+			"name": "🔞JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,	
+			"ext": "./lib/ab.json$$$http://javdb3656.com$$$noproxy"
+		},
+		{
+			"key": "csp_JavBus",
+			"name": "㊙️JavBus┃磁力",
+			"type": 3,
+			"api": "csp_JavBus",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.6
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "./lib/ab.json$$$https://www.busdmm.art$$$noproxy"
+		},
+		{
+			"key": "csp_Doll",
+			"name": "🚷Doll┃直连",
+			"type": 3,
+			"api": "csp_Doll",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "noproxy"
+		},
+		{
+			"key": "csp_Hanime",
+			"name": "🚫Hanime┃直连",
+			"type": 3,
+			"api": "csp_Hanime",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.485
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "noproxy"
+		},
+		{
+			"key": "MissAV",
+			"name": "👠MissAV┃直连",
+			"type": 3,
+			"api": "csp_Miss",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "noproxy"
+		},
+		{
+			"key": "top888",
+			"name": "🔝Top888┃直连",
+			"type": 3,
+			"api": "csp_Top888",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "null$$$noproxy"
+		},
+		{
+            "key": "18AV",
+            "name": "18AV",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 1
+        },
+		{
+            "key": "量子",
+            "name": "量子",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+            "伦理片"
+             ]
+        },
+        {
+            "key": "非凡",
+            "name": "非凡",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+            "伦理片"
+            ]
+        },
+		{
+			"key": "csp_BtSow",
+			"name": "🇸BtSow┃磁搜",
+			"type": 3,
+			"api": "csp_BtSow",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"timeout": 1801,
+			"ext":"./lib/ab.json$$$null$$$null$$$1"
+		},
+		{
+			"key": "csp_BtSearch",
+			"name": "🌱BtSearch┃磁搜",
+			"type": 3,
+			"api": "csp_BtSearch",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"timeout": 1801,
+			"ext":"./lib/ab.json$$$null$$$null$$$1"
+		},
+		{
+			"key": "csp_Clg",
+			"name": "🐶磁力狗┃磁搜",
+			"type": 3,
+			"api": "csp_Clg",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+			"timeout": 1801,
+			"ext":"./lib/ab.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
+		},
+		{
       "key": "51smt4.xyz",
       "name": "成人01",
       "type": 1,
@@ -524,37 +729,153 @@
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1
     },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    }
-  ],
-  "rules": [
-    {
-      "name": "量子廣告",
-      "hosts": [
-        "vip.lz",
-        "hd.lz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "非凡廣告",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    }
-  ]
+		{
+			"key": "配置中心",
+			"name": "🔧配置中心",
+			"type": 3,
+			"api": "csp_Config",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "./lib/ab.json"
+		},
+		{
+			"key": "push_agent",
+			"name": "🛴推送",
+			"type": 3,
+			"api": "csp_Push",
+			"searchable": 0,
+			"quickSearch": 0,
+			"selectable": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"recordable": 0,
+			"timeout": 60,
+			"ext": "./lib/ab.json"
+		}
+	],
+	"doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz1",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "暴風",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "hs",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "dy",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+				"社 區",
+				"x u u",
+				"最 新",
+				"直 播",
+				"更 新",
+				"社 区",
+				"有 趣",
+				"英皇体育",
+				"全中文AV在线",
+				"澳门皇冠赌场",
+				"哥哥快来",
+				"美女荷官",
+				"裸聊",
+				"新片首发",
+				"UUE29"
+            ]
+        }
+    ]
 }
