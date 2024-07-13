@@ -1856,7 +1856,7 @@
 		},
 		{
 			"key":"Youtube",
-			"name":"⛽️Youtube｜视频",
+			"name":"⛽️Youtube｜合辑",
 			"type":3,
 			"api": "csp_Youtube",
 			"searchable": 1,
@@ -1875,30 +1875,7 @@
 				"type": "rect",
 				"ratio": 1.5
 			}
-		},
-		{
-			"key": "Youtube2",
-			"name": "🛢Youtube | 直播",
-			"type": 3,
-			"style": {
-				"type": "oval"
-			},
-			"api": "https://qu.ax/Mud.js",
-			"searchable": 1, 
-			"changeable": 2,
-			"ext": "https://qu.ax/USvO.txt"
-		},
-		{
-			"key": "网络直播转点播",
-			"name": "💻电视 | 直播",
-			"type": 3,
-			"changeable": 2,
-			"style": {
-				"type": "oval"
-			},
-			"api": "https://qu.ax/dFpK.js",
-			"ext": "https://qu.ax/uChb.json"
-		},
+		},	
 		{
 			"key": "csp_AliShareEbook",
 			"name": "📖阿里┃电子书",
