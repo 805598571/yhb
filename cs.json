@@ -2098,6 +2098,22 @@
 			"ext": "null$$$noproxy"
 		},
 		{
+            "key": "py_emby",
+            "name": "🍏EMBY┃PY",
+            "type": 3,
+            "api": "./py/py_emby.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "server": "http://kr.emby.cyou:8096",
+                "username": "feverss",
+                "password": "",
+                "thread": 0
+            },
+            "changeable": 2
+        },
+		{
 			"key": "配置中心",
 			"name": "🔧配置中心",
 			"type": 3,
