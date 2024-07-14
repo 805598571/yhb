@@ -52,6 +52,16 @@
 			}
 		},
 		{
+			"key": "CNTV",
+			"name": "🇨CNTV┃直连",
+			"type": 3,
+			"api": "./js/cntv_open.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2
+		},
+		{
 			"key": "csp_WexYinyuetai",
 			"name": "🎶音悦台┃音乐",
 			"type": 3,
