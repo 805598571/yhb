@@ -2384,6 +2384,13 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+			"name": "阿毛",
+			"type": 0,
+			"url": "https://amaow.top/iptv",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 			"name": "港澳台",
 			"type": 0,
 			"url": "http://www.stream-link.org/stream-link.m3u",
