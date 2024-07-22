@@ -1,5 +1,5 @@
 {
-'token':'6f3c711609b94d329292372735c22a76',
+'token':'0c9e42ab29b14ee5a8b6c74df308d8fb',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlN2JiYjUzMThhNjI0Mzg3YTk0ZjE4NzdlYmU2YTIxZiIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNzI4NDQ4MTI3LCJpYXQiOjE3MjA2NzIxMjcsImp0aSI6ImZmNzViMDhlODdlNzRlZGViNDU0MzA5Y2Y3ZTMxNjZkIn0.a5hkY3DRI2U0RoJN60idwqPrA3niN1BCbszPVdInIXD43bQX4WkHb7z6KCfDFH_mMA_TMqrflVSHIUCc6azMEg',
 'open_api_url':'get|https://adrive.xdow.net/oauth/access_token',
 'oauth_client_id':'641d844e426841ea90cf6f3f933e0af7',
@@ -8,7 +8,7 @@
 'oauth_refresh_url':'',
 'thread_limit':32,
 'is_vip':false,
-'vip_thread_limit':16,
+'vip_thread_limit':64,
 'vod_flags':'4kz|auto',
 'quark_thread_limit':32,
 'quark_is_vip':false,
