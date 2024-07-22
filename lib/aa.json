@@ -8,7 +8,7 @@
 'oauth_refresh_url':'',
 'thread_limit':64,
 'is_vip':false,
-'vip_thread_limit':0,
+'vip_thread_limit':64,
 'vod_flags':'4kz|auto',
 'quark_thread_limit':32,
 'quark_is_vip':false,
