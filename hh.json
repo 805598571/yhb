@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;d0e9120903197c33d112c711af331a5f",
+	"spider": "./jar/pg.jar;md5;169229fcbe07c888c538f2292e671a84",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/hh.jpeg",
 	"sites": [{
@@ -187,6 +187,38 @@
 				"ratio": 1.1
 			},
 			"ext": "./lib/aa.json$$$./lib/quarkshare.txt"
+		},
+		{
+			"key": "csp_UCShare",
+			"name": "🦊UC┃网盘",
+			"type": 3,
+			"api": "csp_UCShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "./lib/aa.json$$$./lib/UCshare.txt"
+		},
+		{
+			"key": "csp_P115Share",
+			"name": "🔂115┃网盘",
+			"type": 3,
+			"api": "csp_P115Share",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "./lib/aa.json$$$./lib/p115share.txt"
 		},
 		{
 			"key": "csp_ThunderShare",
