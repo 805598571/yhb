@@ -202,7 +202,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/aa.json$$$./lib/UCshare.txt"
+			"ext": "./lib/aa.json$$$./lib/ucshare.txt"
 		},
 		{
 			"key": "csp_P115Share",
@@ -218,7 +218,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/aa.json$$$./lib/p115share.txt"
+			"ext": "./lib/aa.json$$$./lib/115share.txt"
 		},
 		{
 			"key": "csp_ThunderShare",
