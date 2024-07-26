@@ -1,7 +1,7 @@
 {
-'token':'0c9e42ab29b14ee5a8b6c74df308d8fb',
+'token':'eb772cda589245bea30e4cce46f9845a|dc53ba3a744e4e94bdd4c1e2af80490a',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlN2JiYjUzMThhNjI0Mzg3YTk0ZjE4NzdlYmU2YTIxZiIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNzI4NDQ4MTI3LCJpYXQiOjE3MjA2NzIxMjcsImp0aSI6ImZmNzViMDhlODdlNzRlZGViNDU0MzA5Y2Y3ZTMxNjZkIn0.a5hkY3DRI2U0RoJN60idwqPrA3niN1BCbszPVdInIXD43bQX4WkHb7z6KCfDFH_mMA_TMqrflVSHIUCc6azMEg',
-'open_api_url':'get|https://adrive.xdow.net/oauth/access_token',
+'open_api_url':'postparam|http://api.extscreen.com/aliyundrive/token',
 'oauth_client_id':'641d844e426841ea90cf6f3f933e0af7',
 'oauth_client_secret':'',
 'oauth_auth_url':'',
@@ -23,7 +23,7 @@
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
-'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=fa31432ba6983638010653bcd41fef07',
+'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=d0307eab86e6f12d101b928f8e141f56',
 'proxy':'',
 'danmu':true,
 'quark_danmu':true,
@@ -47,5 +47,12 @@
 'pikpak_danmu':true,
 'libxl_url':'./libxl_thunder_sdk.so',
 'youtube_proxy':'',
-'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=e1b5c59e04440769865978b3358dcf1a'
+'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=e1b5c59e04440769865978b3358dcf1a',
+'pan115_cookie':'',
+'pan115_thread_limit':0,
+'pan115_vip_thread_limit':0,
+'pan115_is_vip':false,
+'pan115_flags':'4kz',
+'pan115_auto_delete':true,
+'pan115_delete_code':''
 }
