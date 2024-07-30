@@ -1,6 +1,6 @@
 {
-'token':'eb772cda589245bea30e4cce46f9845a',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlN2JiYjUzMThhNjI0Mzg3YTk0ZjE4NzdlYmU2YTIxZiIsImF1ZCI6IjY0MWQ4NDRlNDI2ODQxZWE5MGNmNmYzZjkzM2UwYWY3IiwiZXhwIjoxNzI4NDQ4MTI3LCJpYXQiOjE3MjA2NzIxMjcsImp0aSI6ImZmNzViMDhlODdlNzRlZGViNDU0MzA5Y2Y3ZTMxNjZkIn0.a5hkY3DRI2U0RoJN60idwqPrA3niN1BCbszPVdInIXD43bQX4WkHb7z6KCfDFH_mMA_TMqrflVSHIUCc6azMEg',
+'token':'6a8e0cb4b6b3407c8b2d6252c4bbf88d',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwYjg0MGQ1YzgwZDg0OGRlODNjMGRhODVjMmVjMDI4NSIsImF1ZCI6IjZiNWI1MmUxNDRmNzQ4Zjc4YjNmOTZhMjYyNmVkNWQ3IiwiZXhwIjoxNzMwMDg0MjQzLCJpYXQiOjE3MjIzMDgyNDMsImp0aSI6IjU1OTA0ODA0ODg1MDQ0ZTViM2IzMWYxYzQ5YTQxOTk5In0.chv0Rf4A7w2eobvnxFeestlaLS-sA-wOwBwjzq7zpkPTLsK6IsFNOxtDYCQUlNu06A8__XVPindnwxWYo6eVyA',
 'open_api_url':'postparam|http://api.extscreen.com/aliyundrive/token',
 'oauth_client_id':'',
 'oauth_client_secret':'',
@@ -9,7 +9,7 @@
 'thread_limit':32,
 'is_vip':false,
 'vip_thread_limit':64,
-'vod_flags':'4kz|auto',
+'vod_flags':'4kz|4ko|auto',
 'quark_thread_limit':32,
 'quark_is_vip':false,
 'quark_vip_thread_limit':0,
