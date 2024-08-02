@@ -64,7 +64,7 @@
 'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=6ebdaf5ae0dee6183b47cf05edeb21a9',
 'singbox_clash2singbox_url':'./clash2singbox.gz;md5=37d3cc41a50b82ea371733aeba5afa7f',
 'singbox_template_url':'./singbox.json',
-'pan115_cookie':'PHPSESSID=gnj8sqq1qghthbkpkd5u6h6ffo; acw_tc=784e2c9117219672185458150e13132bf5f8da12060925afe99b8e8950d028; UID=102209253_A1_1721967438; CID=ae84bc05d5340deaccc10a250f314b3f; SEID=4e69b9ff92cc515413cfeae99cad5e1ad1e22bc286fca5a3497f880c6e77707918eb1688ea6d05af301651a858a01835d3622f80824766d83dbe830a; USERSESSIONID=17973c50909b1cba90ef8b9f2e2e60f57e74d8d6779f9ca66d8d4905013a89a9; 115_lang=zh',
+'pan115_cookie':'PHPSESSID=gnj8sqq1qghthbkpkd5u6h6ffo; USERSESSIONID=17973c50909b1cba90ef8b9f2e2e60f57e74d8d6779f9ca66d8d4905013a89a9; 115_lang=zh; acw_tc=2f6a1fa417225725931177590e66b61bc20b30209e17f62bcff341264aed4b; UID=341887427_A1_1722572634; CID=041719286fd9dcfd18252959d3ca7a2a; SEID=3db349b5066aaf4df45c7393a5ad9a33e5dea2aba385cba5c117eb1ce503b60016297a8447e483a712b36dd3b695ea7d65a04e3d9ba8580bb7863c71',
 'pan115_thread_limit':0,
 'pan115_vip_thread_limit':0,
 'pan115_is_vip':false,
