@@ -54,7 +54,7 @@
 		{
 			"key": "CNTV",
 			"name": "🇨CNTV┃直连",
-			"type": 3,
+			"type": 4,
 			"api": "https://azure.leuse.top/vod/cntv",
 			"searchable": 1,
 			"quickSearch": 1,
