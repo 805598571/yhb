@@ -52,6 +52,16 @@
 			}
 		},
 		{
+			"key": "CNTV",
+			"name": "🇨CNTV┃直连",
+			"type": 4,
+			"api": "https://azure.leuse.top/vod/cntv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2
+		},
+		{
 			"key": "csp_WexYinyuetai",
 			"name": "🎶音悦台┃音乐",
 			"type": 3,
