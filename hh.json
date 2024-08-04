@@ -1553,17 +1553,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
-		},
-		{
-			"key": "drpy_js_meow",
-			"name": "✈️TG搜┃云搜",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/meow.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 2
-		},
+		},	
 		{
 			"key": "MeijuTT",
 			"name": "🌫️美剧天天┃磁力",
