@@ -11,6 +11,7 @@
 'vip_thread_limit':64,
 'vod_flags':'4kz',
 'quark_thread_limit':32,
+'quark_is_guest':false,
 'quark_is_vip':false,
 'quark_vip_thread_limit':0,
 'quark_flags':'4kz',
