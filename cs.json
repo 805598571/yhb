@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;0a458577c31120cbd35569ed8cfa1214",
+	"spider": "./jar/pg.jar;md5;47d040cb3824bd7907a91b84dcd1d2c4",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -288,7 +288,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
 		},
 		{
 			"key": "Wobg",
