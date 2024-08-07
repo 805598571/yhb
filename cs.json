@@ -288,7 +288,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$proxy$$$1$$$./lib/wogg.json"
+			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "Wobg",
