@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;ab7d9ca881d2009a8e0cddc0735ff4b9",
+	"spider": "./jar/pg.jar;md5;a594185009062c64027001b9f6277e7e",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -348,7 +348,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$noproxy$$$1"
+			"ext": "./lib/ab.json$$$https://www.hdhive.online/$$$noproxy$$$1"
 		},
 		{
 			"key": "4KHDR",
