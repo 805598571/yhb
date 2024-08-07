@@ -1254,7 +1254,7 @@
 		    "api":"csp_TGYunPan",
 		    "timeout":60, 
 		    "changeable": 2,
-		    "ext":"./lib/aa.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"
+		    "ext":"./lib/aa.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun,PikPakShare$$$noproxy$$$1"
 		},
 		{
 			"key": "YiSo",
