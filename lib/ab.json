@@ -49,7 +49,7 @@
 'libxl_url':'./libxl_thunder_sdk.so',
 'youtube_proxy':'',
 'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=e1b5c59e04440769865978b3358dcf1a',
-'pan115_cookie':'PHPSESSID=gnj8sqq1qghthbkpkd5u6h6ffo; USERSESSIONID=17973c50909b1cba90ef8b9f2e2e60f57e74d8d6779f9ca66d8d4905013a89a9; 115_lang=zh; acw_tc=2f6a1fa417225725931177590e66b61bc20b30209e17f62bcff341264aed4b; UID=341887427_A1_1722573727; CID=7739f124eeaa3b30ce9ae42fb3eb4901; SEID=ff8c9ac299c7dd7804cbddc1157ecaa07edc30fc66a8c7ef67bf90a0797ba9481a7e9bbc46cdfaa36e1211ffcfc1b9a742e9e86025630731070dce01',
+'pan115_cookie':'UID=341887427_A1_1722573727;CID=7739f124eeaa3b30ce9ae42fb3eb4901;SEID=ff8c9ac299c7dd7804cbddc1157ecaa07edc30fc66a8c7ef67bf90a0797ba9481a7e9bbc46cdfaa36e1211ffcfc1b9a742e9e86025630731070dce01',
 'pan115_thread_limit':2,
 'pan115_vip_thread_limit':2,
 'pan115_is_vip':false,
