@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;8f68266ece5db9fb8cd8ba9da7c88868",
+	"spider": "./jar/pg.jar;md5;39469d06051ff8a5e1bb138d10171efd",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/hh.jpeg",
 	"sites": [{
@@ -31,7 +31,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Bili",
@@ -70,7 +70,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_WexIktv",
@@ -81,7 +81,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Alist",
@@ -104,7 +104,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexduanjuhema",
@@ -115,40 +115,29 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
-			"key": "csp_Wexduanjuvmp",
+			"key": "csp_Wexduanju001",
 			"name": "🇦🇶极品短剧┃直连",
 			"type": 3,
-			"api": "csp_Wexduanjuvmp",
+			"api": "csp_Wexduanju001",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
-		},
-		{
-			"key": "csp_Wexvipduanju",
-			"name": "🧚精品短剧┃直连",
-			"type": 3,
-			"api": "csp_Wexvipduanju",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexduanjuvip",
-			"name": "🍷良品短剧┃直连",
+			"name": "🧚精品短剧┃直连",
 			"type": 3,
 			"api": "csp_Wexduanjuvip",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_PushShare",
@@ -568,7 +557,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexshandian",
@@ -579,18 +568,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
-		},
-		{
-			"key": "csp_Wexhuaruitv",
-			"name": "🌺花蕊┃直连",
-			"type": 3,
-			"api": "csp_Wexhuaruitv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Djtt",
@@ -601,7 +579,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Kkys",
@@ -612,7 +590,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Zx4k",
@@ -623,7 +601,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "原创",
@@ -634,7 +612,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Wexxpgtv",
@@ -645,18 +623,18 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
-			"key": "csp_Xdys",
+			"key": "csp_Appxdys",
 			"name": "👬兄弟┃多线",
 			"type": 3,
-			"api": "csp_Xdys",
+			"api": "csp_Appxdys",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Xinshijue",
@@ -670,15 +648,15 @@
 			"ext": "/lib/aa.json$$$https://www.80yy3.com/$$$noproxy$$$1$$$./lib/wogg.json"
 		},
 		{
-			"key": "csp_Czsapp",
+			"key": "csp_NewCz",
 			"name": "🧛厂长┃直连",
 			"type": 3,
-			"api": "csp_Czsapp",
+			"api": "csp_NewCz",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "https://czzy.top/"
+			"ext": "https://www.czys.pro/"
 		},
 		{
 			"key": "南瓜",
@@ -693,17 +671,6 @@
 			"ext": "null$$$1"
 		},
 		{
-			"key": "csp_Cddys",
-			"name": "🥚蛋蛋┃多线",
-			"type": 3,
-			"api": "csp_Cddys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
-		},
-		{
 			"key": "csp_DiDuan",
 			"name": "⏮️低端┃直连",
 			"type": 3,
@@ -712,7 +679,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Kekys",
@@ -723,7 +690,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Jpys",
@@ -734,7 +701,18 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+		},
+		{
+			"key": "csp_Appmq",
+			"name": "🍓煤球┃多线",
+			"type": 3,
+			"api": "csp_Appmq",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "萌米",
@@ -744,19 +722,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-		},
-		{
-			"key": "csp_Bttoo",
-			"name": "🥂比特┃直连",
-			"type": 3,
-			"api": "csp_Bttwoo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
 		},
 		{
 			"key": "在线",
@@ -767,7 +734,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "https://www.zxzjhd.com/"
 		},
 		{
@@ -779,7 +746,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext":"./lib/tokenm.json$$$https://www.libvio.pw$$$null$$$1"
+			"ext":"./lib/aa.json$$$https://www.libvio.pw$$$null$$$1"
 		},
 		{
 			"key": "csp_Auete",
@@ -790,7 +757,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "https://auete.pro/"
 		},	
 		{
@@ -846,7 +813,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Ying",
@@ -857,7 +824,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Ysj",
@@ -868,7 +835,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Anime1",
@@ -879,7 +846,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "腾讯",
@@ -934,7 +901,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "Aid",
@@ -961,7 +928,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_qiumi",
@@ -1005,7 +972,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "./xp/企鹅直播.json"
 		},
 		{
@@ -1021,7 +988,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "JustLive",
@@ -1137,7 +1104,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wextangdou",
@@ -1152,7 +1119,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexergeduoduo",
@@ -1167,7 +1134,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexbaobaobashi",
@@ -1182,7 +1149,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexbeiwa",
@@ -1197,7 +1164,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wextuxiaobei",
@@ -1212,7 +1179,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexqingfengdj",
@@ -1223,7 +1190,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexxsmp3",
@@ -1234,7 +1201,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexpsmp3",
@@ -1245,7 +1212,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 		    "key":"TGYunPan",
@@ -1972,7 +1939,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;295a6a4e4688c8da7cece2faa143f484"
+			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Netflav",
