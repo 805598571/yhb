@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;a54c87fcdc8453e2b89cdec44b858456",
+	"spider": "./jar/pg.jar;md5;8f68266ece5db9fb8cd8ba9da7c88868",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -288,7 +288,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
 		},
 		{
 			"key": "Wobg",
@@ -300,7 +300,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "./lib/ab.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$./lib/wogg.json$$$WOBG"
 		},
 		{
 			"key": "Wnlg",
@@ -312,7 +312,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "./lib/ab.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
 		},
 		{
 			"key": "蜡笔",
@@ -324,7 +324,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "./lib/ab.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
 		},
 		{
 			"key": "Moli",
