@@ -506,7 +506,7 @@
 		},
 		{
 			"key": "热播",
-			"name": "☕︎热播┃App",
+			"name": "☕热播┃App",
 			"type": 3,
 			"api": "csp_TTian",
 			"searchable": 1,
@@ -705,7 +705,7 @@
 		},
 		{
 			"key": "csp_Appmq",
-			"name": "🍓煤球┃多线",
+			"name": "🪩煤球┃多线",
 			"type": 3,
 			"api": "csp_Appmq",
 			"searchable": 1,
