@@ -506,7 +506,7 @@
 		},
 		{
 			"key": "热播",
-			"name": "☕︎热播┃App",
+			"name": "☕热播┃App",
 			"type": 3,
 			"api": "csp_TTian",
 			"searchable": 1,
