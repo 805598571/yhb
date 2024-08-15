@@ -2190,6 +2190,12 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+			"name": "TV",
+			"type": 0,
+			"url": "http://zhangqun1818.serv00.net/zh/223.php",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+		},
+		{
 			"name": "重庆有线",
 			"type": 0,
 			"url": "http://我艹.x10.mx/cqyx.m3u",
