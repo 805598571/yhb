@@ -62,6 +62,16 @@
 			"changeable": 2
 		},
 		{
+			"key": "TV",
+			"name": "🇨TV┃直连",
+			"type": 0,
+			"api": "http://zhangqun1818.serv00.net/zh/223.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2
+		},
+		{
 			"key": "csp_WexYinyuetai",
 			"name": "🎶音悦台┃音乐",
 			"type": 3,
@@ -2188,12 +2198,6 @@
 			"url": "./hh.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "TV",
-			"type": 0,
-			"url": "http://zhangqun1818.serv00.net/zh/223.php",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
 			"name": "重庆有线",
