@@ -69,7 +69,7 @@
 'pan115_thread_limit':2,
 'pan115_vip_thread_limit':2,
 'pan115_is_vip':false,
-'pan115_flags':'4kz',
+'pan115_flags':'4kz|ali',
 'pan115_auto_delete':true,
 'pan115_delete_code':'186011',
 'pan_order':'uc|115|quark|thunder|ali|yd|pikpak'
