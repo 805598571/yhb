@@ -24,7 +24,7 @@
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k',
 'aliproxy':'',
-'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=2d017820c33bf55e25d94eaa9f834695',
+'aliproxy_url':'https://gitlab.com/kerkier/yhb/-/raw/main/lib/aliproxy.gz;md5=881472065abab95df00cbd9c3f48f0b6',
 'proxy':'',
 'danmu':true,
 'quark_danmu':true,
