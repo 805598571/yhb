@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;27c8c590424951753fc15dddbf19529f",
+	"spider": "./jar/pg.jar;md5;d331af8ecd6686406e28a7cb1372f038",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -1294,10 +1294,10 @@
 		    "key":"TGYunPan",
 		    "name":"🛩️TG┃云搜",
 		    "type":3,
-		    "api":"csp_TGYunPan",
+		    "api":"csp_TGYunPanLocal",
 		    "timeout":60, 
 		    "changeable": 2,
-		    "ext":"./lib/ab.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun,PikPakShare$$$noproxy$$$1"
+		    "ext":"./lib/ab.json$$$https://t.me/$$$hao115,Aliyundrive_Share_Channel,kuakeyun,PikPakShare$$$noproxy$$$1"
 		},
 		{
 			"key": "YiSo",
