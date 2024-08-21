@@ -595,6 +595,36 @@
 			"ext": "$$$noproxy"
 		},
 		{
+            "key": "T4-heimuer",
+            "name": "👂🏿黑木耳┃T4",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=3ec1a4f3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 2
+        },
+        {
+            "key": "T4-欧乐",
+            "name": "🧄欧乐┃T4",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=3ec1a4f3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 2
+        },
+        {
+            "key": "T4-安博",
+            "name": "⛑️安博┃T4",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=3ec1a4f3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 2
+        },
+		{
 			"key": "csp_Wexhanxiaoquan",
 			"name": "❄韩圈TV┃App",
 			"type": 3,
@@ -1733,36 +1763,6 @@
 			],
 			"changeable": 2
 		},
-		{
-            "key": "T4-heimuer",
-            "name": "👂🏿黑木耳┃T4",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/hme?token=3ec1a4f3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 2
-        },
-        {
-            "key": "T4-欧乐",
-            "name": "🧄欧乐┃T4",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/olelive?token=3ec1a4f3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 2
-        },
-        {
-            "key": "T4-安博",
-            "name": "⛑️安博┃T4",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/ub18?token=3ec1a4f3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 2
-        },
 		{
 			"key":"Youtube",
 			"name":"⛽️Youtube｜合辑",
