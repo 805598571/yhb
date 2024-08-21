@@ -1734,6 +1734,36 @@
 			"changeable": 2
 		},
 		{
+            "key": "T4-heimuer",
+            "name": "👂🏿黑木耳┃T4",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=3ec1a4f3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 2
+        },
+        {
+            "key": "T4-欧乐",
+            "name": "🧄欧乐┃T4",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=3ec1a4f3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 2
+        },
+        {
+            "key": "T4-安博",
+            "name": "⛑️安博┃T4",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=3ec1a4f3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 2
+        },
+		{
 			"key":"Youtube",
 			"name":"⛽️Youtube｜合辑",
 			"type":3,
@@ -2245,6 +2275,14 @@
 			"name": "晴天",
 			"type": 0,
 			"url": "./qt.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "ETH",
+			"type": 3,
+			"url": "https://tang.hz.cz/js/ethtv.js",
+			"ua": "okhttp/4.12.0",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
