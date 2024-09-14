@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;f198ed8d573d7c2e4cab2d22e79a291c",
+	"spider": "./jar/pg.jar;md5;7c77c333b91bd1c46c400040638c99c0",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -31,7 +31,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Bili",
@@ -80,7 +80,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_WexIktv",
@@ -91,7 +91,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Alist",
@@ -114,7 +114,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexduanjuhema",
@@ -125,7 +125,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexduanju001",
@@ -136,7 +136,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexduanjuvip",
@@ -147,7 +147,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_PushShare",
@@ -633,7 +633,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexshandian",
@@ -644,7 +644,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Djtt",
@@ -655,7 +655,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Kkys",
@@ -666,7 +666,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Zx4k",
@@ -677,7 +677,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "原创",
@@ -688,7 +688,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Wexxpgtv",
@@ -699,7 +699,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Appxdys",
@@ -710,7 +710,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Xinshijue",
@@ -755,7 +755,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Kekys",
@@ -766,7 +766,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Jpys",
@@ -777,7 +777,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Appmq",
@@ -788,7 +788,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "萌米",
@@ -798,7 +798,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
 			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 		},
 		{
@@ -810,7 +810,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
 			"ext": "https://www.zxzjhd.com/"
 		},
 		{
@@ -833,7 +833,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
 			"ext": "https://auete.pro/"
 		},	
 		{
@@ -889,7 +889,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Ying",
@@ -900,7 +900,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Ysj",
@@ -911,7 +911,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "csp_Anime1",
@@ -922,7 +922,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "腾讯",
@@ -977,7 +977,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700"
 		},
 		{
 			"key": "Aid",
@@ -1004,7 +1004,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_qiumi",
@@ -1048,7 +1048,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "./jar/hh.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
 			"ext": "./xp/企鹅直播.json"
 		},
 		{
@@ -1064,7 +1064,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "JustLive",
@@ -1180,7 +1180,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wextangdou",
@@ -1195,7 +1195,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexergeduoduo",
@@ -1210,7 +1210,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexbaobaobashi",
@@ -1225,7 +1225,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexbeiwa",
@@ -1240,7 +1240,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wextuxiaobei",
@@ -1255,7 +1255,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexqingfengdj",
@@ -1266,7 +1266,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexxsmp3",
@@ -1277,7 +1277,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Wexpsmp3",
@@ -1288,7 +1288,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 		    "key":"TGYunPan",
@@ -1840,7 +1840,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
 		},
 		{
 			"key": "csp_Netflav",
