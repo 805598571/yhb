@@ -1,5 +1,5 @@
 {
-'token':'6a8e0cb4b6b3407c8b2d6252c4bbf88d',
+'token':'3272d63c6b494c78914cdb2cc09c1e63',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwYjg0MGQ1YzgwZDg0OGRlODNjMGRhODVjMmVjMDI4NSIsImF1ZCI6IjZiNWI1MmUxNDRmNzQ4Zjc4YjNmOTZhMjYyNmVkNWQ3IiwiZXhwIjoxNzMwMDg0MjQzLCJpYXQiOjE3MjIzMDgyNDMsImp0aSI6IjU1OTA0ODA0ODg1MDQ0ZTViM2IzMWYxYzQ5YTQxOTk5In0.chv0Rf4A7w2eobvnxFeestlaLS-sA-wOwBwjzq7zpkPTLsK6IsFNOxtDYCQUlNu06A8__XVPindnwxWYo6eVyA',
 'open_api_url':'postparam|http://api.extscreen.com/aliyundrive/token',
 'oauth_client_id':'',
@@ -65,7 +65,7 @@
 'singbox_subscribe_url':'https://edu.kuaifaka.me/api/v1/client/subscribe?token=6ebdaf5ae0dee6183b47cf05edeb21a9',
 'singbox_clash2singbox_url':'./clash2singbox.gz;md5=37d3cc41a50b82ea371733aeba5afa7f',
 'singbox_template_url':'./singbox.json',
-'pan115_cookie':'UID=341887427_A1_1722573727;CID=7739f124eeaa3b30ce9ae42fb3eb4901;SEID=ff8c9ac299c7dd7804cbddc1157ecaa07edc30fc66a8c7ef67bf90a0797ba9481a7e9bbc46cdfaa36e1211ffcfc1b9a742e9e86025630731070dce01',
+'pan115_cookie':'UID=341887427_A1_1726396160;CID=7b91f88bcfae03821c7fb87090d1e64d;SEID=035d45970241a48059978559ba2ff5be3ddf9bbf9dcda992a596895c55688a2034676ad3a63d78dfc7ab7c3eb7a2596946c1a8ed0f2ebda2dd997647',
 'pan115_thread_limit':2,
 'pan115_vip_thread_limit':2,
 'pan115_is_vip':false,
