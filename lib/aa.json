@@ -54,7 +54,7 @@
 'wgcf_geoip_url':'./geoip.dat.gz',
 'wgcf_json_url':'./wgcf.json',
 'wgcf_vless_id':'086beaf5-ec48-4b5c-9fe9-8c70fdf68819',
-'wgcf_vless_optname':'112.3.30.150:80',
+'wgcf_vless_optname':'120.233.30.56:1090',
 'wgcf_vless_worker':'tms.dingtalk.com',
 'wgcf_vless_path':'/',
 'wgcf_vless_protocol':'vmess',
